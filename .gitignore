@@ -1,0 +1,16 @@
+# node
+node_modules/
+
+# env files
+.env
+client/.env
+server/.env
+
+# build outputs
+client/dist
+
+# logs
+npm-debug.log*
+
+# optional
+uploads/
